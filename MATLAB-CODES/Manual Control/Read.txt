@@ -1,0 +1,18 @@
+
+---------------------------------------------------
+The Following files are needed for using the API. These files should be in the same folder 
+where you have your Matlab programs (the programs you implement).
+
+DefineContextAPI.p
+IniLibPossum.p
+iniApiMTRN3100.p    
+possumDB.mexw32
+
+---------------------------------------------------
+
+The following file is an example that uses the API.
+
+ExampleMTRN3100_1.m
+
+
+---------------------------------------------------
