@@ -1,0 +1,9 @@
+Stepper Motors
+
+900 steps = 1cm;
+
+45000 steps = 50cm, 10603 steps = 90 degrees;
+
+both -ve = forward, both +ve = backward,
+L-ve R+ve = RH Turn;
+L+ve R-ve = LH Turn;
